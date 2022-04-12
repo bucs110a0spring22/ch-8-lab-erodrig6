@@ -8,18 +8,21 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+  The string utility.py uses a class and then creates a string. I then added different methods to the string to complete different tasks in main.py
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+
+N/A
 
 ## REFERENCES:
- < List any outside resources used >
+  GeeksforGeeks - ord() function, chr() function 
+ likegeeks.com - Cipher in python
+     learned encription rules and ord() method to convert a character to numeric representation
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+N/A
